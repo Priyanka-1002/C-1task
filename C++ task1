@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a;
+float f;
+char c;
+double d;
+printf("Size of Integer=%d bytes\n",sizeof(a));
+printf("Size of Float=%d bytes\n",sizeof(f));
+printf("Size of Char=%d bytes\n",sizeof(c));
+printf("Size of double=%d bytes\n",sizeof());
+getch();
+}
